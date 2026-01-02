@@ -31,7 +31,7 @@ Source: Inside Airbnb (public data)
   - ~4.62% overall revenue lift
   - Positive gains in every neighborhood
 
-  ## Repository Structure
+## Repository Structure
   reports/-> Final report
 
   slides/-> Final presentation slides
